@@ -2,8 +2,7 @@ all:
 	@echo "try 'make install'"
 
 FILES = bash_aliases \
-	gitconfig \
-	vimrc
+	gitconfig
 
 install:
 	for f in $(FILES); do \
