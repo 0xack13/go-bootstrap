@@ -3,3 +3,4 @@
 	ci = commit
 	st = status
 	br = branch
+	lg = log
